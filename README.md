@@ -1,7 +1,7 @@
 # Reverse Polish Notation calculator
 
 Calculator, that switch Infix notation to Reverse Polish Notation, and then show 
-calculation result. 
+calculation result. ( C language )
 
 ## Purpose
 Project made for procedural programming classes
